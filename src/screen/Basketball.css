@@ -1,0 +1,34 @@
+.container {
+    border: 1px solid #da9a9a;
+    border-radius: 10px;
+    padding: 20px;
+    max-width: 200px;
+    margin: 20px auto;
+    box-shadow: 0 4px 8px rgba(147, 136, 136, 0.1);
+    background-color: #fff;
+    text-align: center;
+}
+
+.player-image {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.player-name {
+    font-size: 1.5em;
+    margin: 10px 0;
+}
+
+.player-position {
+    font-size: 1.2em;
+    color: #c89898;
+}
+
+.player-stats {
+    margin-top: 10px;
+}
+
+.player-stats p {
+    margin: 5px 0;
+}
